@@ -1,6 +1,6 @@
 
 def echo_credits():
-    print("Practice task: 'XO-game' v. 0.1")
+    print("Practice task: 'XO-game'")
     print(" 29/05/2021 by Kiril Avdeev")
 
 
